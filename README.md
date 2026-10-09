@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Unified-Customer-Service-Workspace"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Unified-Customer-Service-Workspace?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Unified-Customer-Service-Workspace"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Unified-Customer-Service-Workspace?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Unified-Customer-Service-Workspace/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Unified-Customer-Service-Workspace?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Unified-Customer-Service-Workspace/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Unified-Customer-Service-Workspace" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Unified-Customer-Service-Workspace/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Unified-Customer-Service-Workspace" alt="License" /></a>
@@ -64,56 +64,56 @@ Keywords & Focus Areas: `Telecom CRM`, `BSS/OSS Integration`, `Subscriber Manage
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted strictly by GitHub Star Counts in descending order ⭐.
+Sorted strictly by GitHub Stars_Counts in descending order ⭐.
 
 ### ⚡ High-Impact Telecommunications & BSS Projects
 
-- **[Asterisk](https://github.com/asterisk/asterisk)** [![GitHub stars](https://img.shields.io/github/stars/asterisk/asterisk?style=social&color=white)](https://github.com/asterisk/asterisk/stargazers)  
+- **[Asterisk](https://github.com/asterisk/asterisk)** [![GitHub_Stars](https://img.shields.io/github/stars/asterisk/asterisk?style=social&color=white)](https://github.com/asterisk/asterisk/stargazers)  
   **The open-source communications toolkit** powers IP PBX systems, VoIP gateways, conference servers, and call centers worldwide. Provides telephony backend primitives for building custom telecom CRM integrations and interactive voice response (IVR) customer flows.
 
-- **[Open5GS](https://github.com/open5gs/open5gs)** [![GitHub stars](https://img.shields.io/github/stars/open5gs/open5gs?style=social&color=white)](https://github.com/open5gs/open5gs/stargazers)  
+- **[Open5GS](https://github.com/open5gs/open5gs)** [![GitHub_Stars](https://img.shields.io/github/stars/open5gs/open5gs?style=social&color=white)](https://github.com/open5gs/open5gs/stargazers)  
   **C-language Open Source 5G Core and EPC implementation** for 5G SA/NSA and 4G/LTE networks. Acts as the core network foundation for subscriber data management (HSS/UDM), session management (SMF), and subscriber authentication.
 
-- **[Magma Core](https://github.com/magma/magma)** [![GitHub stars](https://img.shields.io/github/stars/magma/magma?style=social&color=white)](https://github.com/magma/magma/stargazers)  
+- **[Magma Core](https://github.com/magma/magma)** [![GitHub_Stars](https://img.shields.io/github/stars/magma/magma?style=social&color=white)](https://github.com/magma/magma/stargazers)  
   **Open-source software platform for building converged wireless networks** (LTE/5G/WiFi). Integrates subscriber management and policy enforcement, allowing network operators to manage access and subscriber billing parameters.
 
 ### 🛠️ Open-Source Subscriber Management & Billing Systems
 
-- **[Ubilling](https://github.com/nightflyza/Ubilling)** [![GitHub stars](https://img.shields.io/github/stars/nightflyza/Ubilling?style=social&color=white)](https://github.com/nightflyza/Ubilling/stargazers)  
+- **[Ubilling](https://github.com/nightflyza/Ubilling)** [![GitHub_Stars](https://img.shields.io/github/stars/nightflyza/Ubilling?style=social&color=white)](https://github.com/nightflyza/Ubilling/stargazers)  
   **Free, open-source billing and automation system for Internet Service Providers (ISPs)**. Offers subscriber management, network monitoring, service accounting, and MikroTik equipment control. Over 15 years of market presence.
 
-- **[NMS Prime OSS Provisioning](https://github.com/cablelabs/os-provisioning)** [![GitHub stars](https://img.shields.io/github/stars/cablelabs/os-provisioning?style=social&color=white)](https://github.com/cablelabs/os-provisioning/stargazers)  
+- **[NMS Prime OSS Provisioning](https://github.com/cablelabs/os-provisioning)** [![GitHub_Stars](https://img.shields.io/github/stars/cablelabs/os-provisioning?style=social&color=white)](https://github.com/cablelabs/os-provisioning/stargazers)  
   **Modular CRM, BSS, and OSS platform for telcos and ISPs**. Delivers vendor-agnostic service activation and CPE management across DOCSIS, FTTH, FTTx, DSL, and WiFi networks with Laravel PHP 8.
 
-- **[openCRX](https://github.com/opencrx/opencrx)** [![GitHub stars](https://img.shields.io/github/stars/opencrx/opencrx?style=social&color=white)](https://github.com/opencrx/opencrx/stargazers)  
+- **[openCRX](https://github.com/opencrx/opencrx)** [![GitHub_Stars](https://img.shields.io/github/stars/opencrx/opencrx?style=social&color=white)](https://github.com/opencrx/opencrx/stargazers)  
   **Enterprise-class open-source CRM suite** with telecommunications industry extensions. Java-based architecture supporting XML, HSQL, Oracle, MySQL, PostgreSQL, DB2, and SQL Server.
 
-- **[HornBill ISP Billing Manager](https://github.com/mwakidenis/HornBill)** [![GitHub stars](https://img.shields.io/github/stars/mwakidenis/HornBill?style=social&color=white)](https://github.com/mwakidenis/HornBill/stargazers)  
+- **[HornBill ISP Billing Manager](https://github.com/mwakidenis/HornBill)** [![GitHub_Stars](https://img.shields.io/github/stars/mwakidenis/HornBill?style=social&color=white)](https://github.com/mwakidenis/HornBill/stargazers)  
   **Multi-Tenant ISP Billing & Client Manager** tailored for Internet Service Providers managing subscription plans, user credentials, and bandwidth dunning.
 
-- **[FreeSWITCH](https://github.com/signalwire/freeswitch)** [![GitHub stars](https://img.shields.io/github/stars/signalwire/freeswitch?style=social&color=white)](https://github.com/signalwire/freeswitch/stargazers)  
+- **[FreeSWITCH](https://github.com/signalwire/freeswitch)** [![GitHub_Stars](https://img.shields.io/github/stars/signalwire/freeswitch?style=social&color=white)](https://github.com/signalwire/freeswitch/stargazers)  
   **Open-source multi-protocol softswitch** designed to route and interconnect audio, video, and text messages. Serves as the core voice engine for telecom customer call center CRM systems.
 
-- **[ISP Mikrotik Billing System](https://github.com/CodePagol/ISP-Mikrotik-Billing)** [![GitHub stars](https://img.shields.io/github/stars/CodePagol/ISP-Mikrotik-Billing?style=social&color=white)](https://github.com/CodePagol/ISP-Mikrotik-Billing/stargazers)  
+- **[ISP Mikrotik Billing System](https://github.com/CodePagol/ISP-Mikrotik-Billing)** [![GitHub_Stars](https://img.shields.io/github/stars/CodePagol/ISP-Mikrotik-Billing?style=social&color=white)](https://github.com/CodePagol/ISP-Mikrotik-Billing/stargazers)  
   **Modern ISP billing and network management system for MikroTik RouterOS** featuring PPPoE/Hotspot provisioning, automated subscriber billing, and real-time monitoring.
 
-- **[BSS-OSS Rust Ecosystem](https://github.com/rabbittrix/BSS-OSS-Rust-Ecosystem)** [![GitHub stars](https://img.shields.io/github/stars/rabbittrix/BSS-OSS-Rust-Ecosystem?style=social&color=white)](https://github.com/rabbittrix/BSS-OSS-Rust-Ecosystem/stargazers)  
+- **[BSS-OSS Rust Ecosystem](https://github.com/rabbittrix/BSS-OSS-Rust-Ecosystem)** [![GitHub_Stars](https://img.shields.io/github/stars/rabbittrix/BSS-OSS-Rust-Ecosystem?style=social&color=white)](https://github.com/rabbittrix/BSS-OSS-Rust-Ecosystem/stargazers)  
   **High-performance BSS/OSS foundation built in Rust**, fully compliant with **TM Forum Open APIs** (TMF678, TMF635, TMF668, TMF632, TMF669). Features real-time usage rating, subscription cycle management, and OAuth2/PKCE security.
 
-- **[BillRun CRM](https://github.com/BillRun/CRM)** [![GitHub stars](https://img.shields.io/github/stars/BillRun/CRM?style=social&color=white)](https://github.com/BillRun/CRM/stargazers)  
+- **[BillRun CRM](https://github.com/BillRun/CRM)** [![GitHub_Stars](https://img.shields.io/github/stars/BillRun/CRM?style=social&color=white)](https://github.com/BillRun/CRM/stargazers)  
   **Open-source CRM built specifically for telecom operators**, based on SuiteCRM. Features OSS interface modules, subscriber management, SIM card/router inventory tracking, and number portability gateway integration.
 
-- **[Discobole BSS](https://www.ow2.org/)** [![GitHub stars](https://img.shields.io/badge/OW2-Open%20Source-blue?style=social&color=white)](https://www.ow2.org/)  
+- **[Discobole BSS](https://www.ow2.org/)** [![GitHub_Stars](https://img.shields.io/badge/OW2-Open%20Source-blue?style=social&color=white)](https://www.ow2.org/)  
   **Cloud-native TM Forum-compliant BSS suite** deployed at Orange European and MEA subsidiaries. Supports full Order-to-Bill workflows for mobile and FTTH B2C offerings.
 
-- **[ASTPP BSS/OCS](https://github.com/astpp)** [![GitHub stars](https://img.shields.io/badge/ASTPP-Community-blue?style=social&color=white)](https://github.com/astpp)  
+- **[ASTPP BSS/OCS](https://github.com/astpp)** [![GitHub_Stars](https://img.shields.io/badge/ASTPP-Community-blue?style=social&color=white)](https://github.com/astpp)  
   **Open-source VoIP billing & Online Charging System (OCS)** for telecom operators, ITSPs, MVNOs, and wholesale carriers with real-time prepaid balance rating.
 
 ### 🌐 Additional Open-Source Options
 
-- **[Romashka Telecom](https://github.com/OlgaRhythm/romashka-telecom)** [![GitHub stars](https://img.shields.io/github/stars/OlgaRhythm/romashka-telecom?style=social&color=white)](https://github.com/OlgaRhythm/romashka-telecom/stargazers) — Microservices-based telecom CRM and billing system (Java 17, Spring Boot, RabbitMQ, PostgreSQL, Docker) demonstrating CDR generation, rating server, and salon manager CRM features.
-- **[Telecom Subscriber Management System](https://github.com/Mrcaptain-00/python-sql-databse-project)** [![GitHub stars](https://img.shields.io/github/stars/Mrcaptain-00/python-sql-databse-project?style=social&color=white)](https://github.com/Mrcaptain-00/python-sql-databse-project/stargazers) — Python-MySQL subscriber management system inspired by TRAI regulatory standards with IMSI, MCC, and ICCID tracking.
-- **[Telecom Management System SQL](https://github.com/MohamedAtef721/Telecom-Management-System-sql-Project)** [![GitHub stars](https://img.shields.io/github/stars/MohamedAtef721/Telecom-Management-System-sql-Project?style=social&color=white)](https://github.com/MohamedAtef721/Telecom-Management-System-sql-Project/stargazers) — End-to-end MS SQL database project for managing customers, SIM cards, subscriptions, ARPU metrics, and churn risk analytics.
+- **[Romashka Telecom](https://github.com/OlgaRhythm/romashka-telecom)** [![GitHub_Stars](https://img.shields.io/github/stars/OlgaRhythm/romashka-telecom?style=social&color=white)](https://github.com/OlgaRhythm/romashka-telecom/stargazers) — Microservices-based telecom CRM and billing system (Java 17, Spring Boot, RabbitMQ, PostgreSQL, Docker) demonstrating CDR generation, rating server, and salon manager CRM features.
+- **[Telecom Subscriber Management System](https://github.com/Mrcaptain-00/python-sql-databse-project)** [![GitHub_Stars](https://img.shields.io/github/stars/Mrcaptain-00/python-sql-databse-project?style=social&color=white)](https://github.com/Mrcaptain-00/python-sql-databse-project/stargazers) — Python-MySQL subscriber management system inspired by TRAI regulatory standards with IMSI, MCC, and ICCID tracking.
+- **[Telecom Management System SQL](https://github.com/MohamedAtef721/Telecom-Management-System-sql-Project)** [![GitHub_Stars](https://img.shields.io/github/stars/MohamedAtef721/Telecom-Management-System-sql-Project?style=social&color=white)](https://github.com/MohamedAtef721/Telecom-Management-System-sql-Project/stargazers) — End-to-end MS SQL database project for managing customers, SIM cards, subscriptions, ARPU metrics, and churn risk analytics.
 - **[ICTCRM](https://github.com/ICTWORKFORCE/ictcrm)** — Unified communications integrated CRM built on SuiteCRM with ICTContact for voice, IVR, and messaging campaigns.
 - **[SalesLinkCRM](https://github.com/saleslinkcrm/saleslinkcrm)** — Tailored CRM for residential and commercial telecom sales dealers with carrier qualification tools.
 
@@ -133,7 +133,7 @@ If you find this repository valuable for your telecom engineering team, BSS arch
 
 1. Fork this repository.
 2. Add or update entries in `README.md` following the tabular or starred bullet list formats.
-3. Include project name, official/GitHub URL, star count badge, and factual feature summary.
+3. Include project name, official/GitHub URL, Stars_Count badge, and factual feature summary.
 4. Open a Pull Request with a clear description of the addition.
 
 ---
